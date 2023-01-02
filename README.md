@@ -6,7 +6,7 @@
 
 ### This API receives the question and answer from the client in json format and, it sends back the response in json format.
 
-## Installing dependencies from requirements.txt file
+## Run pip3 install -r requirements.txt  to install dependencies from requirements.txt file
 
 
 ## URL Endpoints
