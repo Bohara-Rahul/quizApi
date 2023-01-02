@@ -4,7 +4,10 @@
 
 ## A django-rest-framework powered api developed for the simple quiz system. 
 
-### This API receives the question and answer from the client in json format and, it sends back the response in json format.  
+### This API receives the question and answer from the client in json format and, it sends back the response in json format.
+
+## Installing dependencies from requirements.txt file
+
 
 ## URL Endpoints
 
