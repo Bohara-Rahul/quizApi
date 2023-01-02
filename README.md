@@ -2,7 +2,7 @@
 
 ## A Django Rest Framework powered app
 
-## A Simple django-rest-framework powered api developed for the simple quiz system. 
+## A django-rest-framework powered api developed for the simple quiz system. 
 
 ### This API receives the question and answer from the client in json format and, it sends back the response in json format.  
 
